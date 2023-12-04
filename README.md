@@ -1,2 +1,3 @@
 # fCC-basic-algorithm-script
-Completed exercises from fCC with my own solution.
+My solutions about the FreeCodeCamp exercises in the JavaScript/Basic Algorithm Script section.
+You can find all of them here, on their page https://www.freecodecamp.org/
