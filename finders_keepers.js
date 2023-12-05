@@ -12,7 +12,7 @@ function findElement(arr, func) {
     num = arr[i];
     // Every number it gets deposited it will go trough a check if it is verified in the given func (function)
     if (func(num)) {
-      // The function will return the first num (if it exist) as a result of the findElements function or undefined
+      // The function will return the first num (if it exist) as a result of the findElements function
       return num;
     }
   }
